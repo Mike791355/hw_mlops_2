@@ -1,0 +1,12 @@
+transaction_time,merch,cat_id,amount,name_1,name_2,gender,street,one_city,us_state,post_code,lat,lon,population_city,jobs,merchant_lat,merchant_lon,target
+2019-01-01 10:00,"Demo Store, Inc.",food_dining,20.10,Alex,Example,F,"1 Example St, Apt 2",Los Angeles,CA,09001,34.05,-118.24,1000,Engineer,34.06,-118.25,0
+2019-01-01 11:00,Demo Store,shopping_net,100.20,Alex,Example,F,1 Example St,Los Angeles,CA,09001,34.05,-118.24,1000,Engineer,34.06,-118.25,1
+2019-02-01 12:00,Demo Travel,travel,100.20,Alex,Example,F,1 Example St,Los Angeles,CA,09001,34.05,-118.24,1000,Engineer,34.06,-118.25,0
+2019-01-01 10:00,Demo Market,grocery_pos,100.00,Sam,Example,M,2 Example St,Austin,TX,78701,30.27,-97.74,2000,Teacher,30.28,-97.75,0
+2019-02-01 10:00,Demo Fuel,gas_transport,100.01,Sam,Example,M,2 Example St,Austin,TX,78701,30.27,-97.74,2000,Teacher,30.28,-97.75,
+2019-02-01 11:00,Demo Market,grocery_pos,9.99,Sam,Example,M,2 Example St,Austin,TX,78701,30.27,-97.74,2000,Teacher,30.28,-97.75,0
+2019-01-01 10:00,Demo Books,shopping_pos,50.00,Robin,Example,F,3 Example St,New York,NY,10001,40.71,-74.00,3000,Writer,40.72,-74.01,0
+2019-02-01 10:00,Demo Fitness,health_fitness,49.99,Robin,Example,F,3 Example St,New York,NY,10001,40.71,-74.00,3000,Writer,40.72,-74.01,
+2019-01-01 10:00,Demo Museum,entertainment,75.55,Taylor,Example,M,4 Example St,Washington,DC,20001,38.91,-77.04,4000,Guide,38.92,-77.05,
+2019-02-01 10:00,Demo Cafe,food_dining,15.55,Taylor,Example,M,4 Example St,Washington,DC,20001,38.91,-77.04,4000,Guide,38.92,-77.05,0
+
